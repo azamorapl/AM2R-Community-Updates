@@ -13,3 +13,7 @@ help.rtf
 extensions
 AM2R.exe
 data.win
+!sprites/images/sMapSP_0.png
+!sprites/images/sMapSP_6.png
+!sprites/images/sMapSP_7.png
+!background/images/bgAM2RTitle.png
